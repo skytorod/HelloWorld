@@ -6,6 +6,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("GIT TEST EDIT1");
 		System.out.println("hotfix edited~!!");
+		System.out.println("master!~!");
 	}
 
 }
