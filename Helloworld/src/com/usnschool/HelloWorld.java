@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("GIT TEST EDIT1");
 		System.out.println("hotfix edited~!!");
 		System.out.println("master!~!");
+		System.out.println("hotfix~!!!");
 	}
 
 }
